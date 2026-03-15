@@ -24,6 +24,6 @@
 
   - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/1.2.0/AfterZero.apk))
 
--  
+----------------------------------------------
 ---
 *Contacto: [Berniloc/locdesloc@gmail.com]*
