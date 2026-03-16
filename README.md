@@ -8,7 +8,7 @@
   - Juego de combate por turnos estilo cartas, con personajes únicos y combates online.
   - Los personajes son únicos para cada jugador, no hay 2 personajes iguales. Contrátalos en el servidor.
   - El combate requiere estrategia, intuición y algo de suerte.
-  - Tiene un modo entrenamiento que no requiere conexión, pero para el ONLINE, hace falta que el servidor esté      conectado. Consultar para activar servidor.
+  - Tiene un modo entrenamiento que no requiere conexión, pero para el ONLINE, hace falta que el servidor esté conectado. Consultar para activar servidor.
 
 (Requiere conexión para el modo online)
 
