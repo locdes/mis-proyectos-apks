@@ -10,8 +10,6 @@
   - El combate requiere estrategia, intuición y algo de suerte.
   - Tiene un modo entrenamiento que no requiere conexión, pero para el ONLINE, hace falta que el servidor esté conectado. Consultar para activar servidor.
 
-<img src="https://github.com/locdes/mis-proyectos-apks/blob/main/Assets/Screenshot_20260316_021352_Crimson%20Circus.jpg?raw=true" width="250">
-
 (Requiere conexión para el modo online)
 
   - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.0.0/CyberGangs.arm64-v8a.apk))
@@ -21,7 +19,9 @@
   - Ambientado en la era Victoriana del año 1890. Gestión de un circo, con itinerancia y gestión económica.
   -  Contrata el personal y artistas, gestiona las tiendas y la cartelera. Se trata de convencer al público (IA) para que acuda a nuestro recinto y tenga una experiencia inolvidable.
   -  ¿Podrás hacerte famoso o te hundirás en la miseria?
-
+| Captura 1 | Captura 2 | Captura 3 | Captura 4 |
+| :---: | :---: | :---: |
+| <img src="" width="200"> | <img src="https://.../foto2.png" width="200"> | <img src="https://.../foto3.png" width="200"> |
 (No requiere conexión)
 
   - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.1.0/CrimsonCircus.apk))
