@@ -20,8 +20,9 @@
   -  Contrata el personal y artistas, gestiona las tiendas y la cartelera. Se trata de convencer al público (IA) para que acuda a nuestro recinto y tenga una experiencia inolvidable.
   -  ¿Podrás hacerte famoso o te hundirás en la miseria?
 | Captura 1 | Captura 2 | Captura 3 | Captura 4 |
-| :---: | :---: | :---: |
-| <img src="" width="200"> | <img src="https://.../foto2.png" width="200"> | <img src="https://.../foto3.png" width="200"> |
+| :---: | :---: | :---: | | :---: |
+| <img src="https://raw.githubusercontent.com/locdes/mis-proyectos-apks/d239235c0cd9a0efa703605341e52bd79f2fe647/Assets/Screenshot_20260316_021352_Crimson%20Circus.jpg" width="200"> | <img src="https://raw.githubusercontent.com/locdes/mis-proyectos-apks/d239235c0cd9a0efa703605341e52bd79f2fe647/Assets/Screenshot_20260316_021434_Crimson%20Circus.jpg" width="200"> | <img src="https://raw.githubusercontent.com/locdes/mis-proyectos-apks/d239235c0cd9a0efa703605341e52bd79f2fe647/Assets/Screenshot_20260316_021659_Crimson%20Circus.jpg" width="200"> | <img src="https://raw.githubusercontent.com/locdes/mis-proyectos-apks/d239235c0cd9a0efa703605341e52bd79f2fe647/Assets/Screenshot_20260316_021910_Crimson%20Circus.jpg" width="200"> |
+
 (No requiere conexión)
 
   - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.1.0/CrimsonCircus.apk))
