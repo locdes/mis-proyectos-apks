@@ -10,6 +10,8 @@
   - El combate requiere estrategia, intuición y algo de suerte.
   - Tiene un modo entrenamiento que no requiere conexión, pero para el ONLINE, hace falta que el servidor esté conectado. Consultar para activar servidor.
 
+<img src="[PEGAR_AQUÍ_EL_ENLACE_DE_LA_IMAGEN](https://raw.githubusercontent.com/locdes/mis-proyectos-apks/6cc38e90a8a35ae3593b0dc52b991217213da020/Screenshot_20260315_104748_CyberGangs.jpg)" width="250">
+
 (Requiere conexión para el modo online)
 
   - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.0.0/CyberGangs.arm64-v8a.apk))
