@@ -17,7 +17,7 @@
 
 (Requiere conexión para el modo online)
 
-  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.0.0/CyberGangs.arm64-v8a.apk))
+  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.0.0/CyberGangs.arm64-v8a.apk)
 
 ----------------------------------------------
 - Crimson Circus (2026)
@@ -32,7 +32,7 @@
 
 (No requiere conexión)
 
-  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.1.0/CrimsonCircus.apk))
+  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.1.0/CrimsonCircus.apk)
 
 ----------------------------------------------
 - After Zero (2026)
@@ -48,7 +48,7 @@
 
 (No requiere conexión)
 
-  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/1.2.0/AfterZero.apk))
+  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/1.2.0/AfterZero.apk)
 
 * Versión BETA, con sólamente la misión de DISCOVERY para revelar el mapa. Pendiente nuevas misiones.
 
@@ -67,7 +67,7 @@
 
 (No requiere conexión)
 
-  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v.1.3.0/FluxRails.apk))
+  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v.1.3.0/FluxRails.apk)
 
 * Versión BETA, con problemas por resolver con los oponentes IA, pero totalmente jugable en modo "solo".
 
@@ -85,7 +85,7 @@
 
 (No requiere conexión)
 
-  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.3.0/GeoApocalypse.apk))
+  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.3.0/GeoApocalypse.apk)
 
 * Versión en desarrollo. Incompleto.
 
@@ -110,7 +110,7 @@
 
 (No requiere conexión)
 
-  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.4.0/kitchen_manager.apk))
+  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.4.0/kitchen_manager.apk)
 
 * Versión completa. Sin datos. Posibles adiciones futuras on-demand y modificaciones personalizadas específicas para cada usuario.
 
