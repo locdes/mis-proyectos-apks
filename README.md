@@ -20,7 +20,7 @@
   - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.0.0/CyberGangs.arm64-v8a.apk)
 
 ----------------------------------------------
-- Crimson Circus (2026)
+### - Crimson Circus (2026)
   - Ambientado en la era Victoriana del año 1890. Gestión de un circo, con itinerancia y gestión económica.
   -  Contrata el personal y artistas, gestiona las tiendas y la cartelera. Se trata de convencer al público (IA) para que acuda a nuestro recinto y tenga una experiencia inolvidable.
   -  ¿Podrás hacerte famoso o te hundirás en la miseria?
@@ -35,7 +35,7 @@
   - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.1.0/CrimsonCircus.apk)
 
 ----------------------------------------------
-- After Zero (2026)
+### - After Zero (2026)
   - En un mundo post-apocalíptico, eres el director de un campamento para supervivientes (IA). Gestiona los edificios, trabajadores y explora el yermo en busca de recursos, objetos y tesoros.
   - El juego tiene un modo de tiempo real 1:1. Cada segundo del mundo real es un segundo en el juego. Si en tu zona es de día y son las 14:00, en el juego es de día y son las 14:00.
   - Con el modo idle, puedes cerrar la aplicación y abrirla cuando quieras para hacer ajustes, ver resultados, o contratar nuevo personal y verás la evolución de tus decisiones a tiempo real.
@@ -54,7 +54,7 @@
 
 ----------------------------------------------
 
-- Flux Rails (2025)
+### - Flux Rails (2025)
   - Juego estilo OpenTTD de gestión de trenes y suministros.
   - Crea tus vías en un mundo procedural estilo maqueta con un sistema de creación de vías libre.
   - Surte a las fábricas de materias primas, lleva los productos finales a las ciudades para que crezcan (físicamente) y transporta sus ciudadanos a otras ciudades.
@@ -73,7 +73,7 @@
 
 ----------------------------------------------
 
-- Geo-Apocalipsis (2025)
+### - Geo-Apocalipsis (2025)
   - Juego tipo RPG postapocalíptico con sistemas procedurales en todo, mapas, enemigos, mundo (Ciudades, pueblos, etc.)
   - Localizaciones con NPC's de IA que generan misiones desde API's de LLM's, inventando narrativas y objetivos.
   - La forma de moverse por el mundo del juego es moviéndose en el mundo real. Si eliges un sitio a 3 kms, tienes que caminar 3 kms en el mundo real en cualquier dirección, incluso en círculos en un parque, para llegar al sitio seleccionado, con combates, loot y eventos por el camino.
@@ -93,7 +93,7 @@
 
 ## 📱 Aplicaciones Móvil
 
-- Kitchen Manager (2026)
+### - Kitchen Manager (2026)
   - Programa para llevar el control de pedidos de un restaurante.
   - CRUD de proveedores, artículos, pedidos, etc.
   - Gestión de precios de artículos, edición de facturas, albaranes, y envío directo de pedidos a proveedores.
