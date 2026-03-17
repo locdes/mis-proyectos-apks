@@ -17,7 +17,7 @@
 
 (Requiere conexión para el modo online)
 
-  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.0.0/CyberGangs.arm64-v8a.apk)
+  - 📥 [Descargar para Android](https://github.com/locdes/mis-proyectos-apks/releases/download/v1.0.1/CyberGangs.1.0.1.apk)
 
 ----------------------------------------------
 ### - Crimson Circus (2026)
